@@ -8,7 +8,11 @@
 
 **进阶教程：**
 
-C++ primer：[参考资料](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th)
+C++ primer：
+
+[C++ Primer 第5版](https://pan.baidu.com/s/1CS0cC_8qPv_R74NX697HIw?pwd=mv25)
+
+[C++ Primer Plus 第六版中文版](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th)
 
 **项目实践：**
 
